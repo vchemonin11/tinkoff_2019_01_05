@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Tink2019_1 {
+public class T1_Trim {
 
     static final int WAS_CAHR = 2;
     static final int DEFAULT = 0;
