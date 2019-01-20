@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Tink_2019_2 {
+public class T2_Roads {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
